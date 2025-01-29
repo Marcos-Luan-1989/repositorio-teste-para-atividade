@@ -1,2 +1,3 @@
 arquivo de texto para testar
-alteração para versão 2.0
+alteração para versão 3.0
+alteração para versão 4.0
